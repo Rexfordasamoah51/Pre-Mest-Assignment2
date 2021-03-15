@@ -1,0 +1,10 @@
+export { default as EighthComponent } from '../components/EighthComponent';
+export { default as FirstComponent } from '../components/FirstComponent';
+export { default as SecondComponent } from '../components/SecondComponent';
+export { default as ThirdComponent } from '../components/ThirdComponent';
+export { default as FourthComponent } from '../components/FourthComponent';
+export { default as FirthComponent } from '../components/FirthComponent';
+export { default as SixthComponent } from '../components/SixthComponent';
+export { default as SeventhComponent } from '../components/SeventhComponent';
+export { default as NinthComponent } from '../components/NinthComponent';
+export { default as TenthComponent } from '../components/TenthComponent';
